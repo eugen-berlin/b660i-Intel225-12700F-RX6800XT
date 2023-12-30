@@ -4,13 +4,17 @@
 <dict>
 	<key>Files</key>
 	<dict>
+		<key>ACPI\FixShutdown-USB-SSDT.aml</key>
+		<data>
+		XDHPE/CmMELBk25YpnzaxYo85WGWCAVdo7j020UzxRY=
+		</data>
 		<key>ACPI\SSDT-AWAC-DISABLE.aml</key>
 		<data>
 		duj57umbgcA4TpCPhH+DlAh/Gy+lh222owVo/RzOsk8=
 		</data>
-		<key>ACPI\SSDT-DMAR.aml</key>
+		<key>ACPI\SSDT-DESIGNARE-Z390-NO-CNVW.aml</key>
 		<data>
-		OQth4QLyCUEKb761xchq1Z1K7WrLaDIhdrBjZpPiFAI=
+		ShE88lTXaU3Cz7byUtsg/i3rcwoPh2bKWD5lGZdsvAw=
 		</data>
 		<key>ACPI\SSDT-EC-USBX-DESKTOP.aml</key>
 		<data>
@@ -20,9 +24,9 @@
 		<data>
 		jTf3gzuuUPl/NbLHEY0lSwisQ03EOgGwXgjG5PwbFpA=
 		</data>
-		<key>ACPI\SSDT-PLUG-DRTNIA.aml</key>
+		<key>ACPI\SSDT-USBX.aml</key>
 		<data>
-		UUqgYU7DalMt2yZ21Zlgfe3T9tSb0lCuHfRQQCN3ulY=
+		K1uYkKZRJh6KNRi68n3xO6sNYKyIMGU3R4kxR6iLoW8=
 		</data>
 		<key>Drivers\AudioDxe.efi</key>
 		<data>
@@ -60,30 +64,6 @@
 		<data>
 		kp6WSuRrE+fyB9b8sg8Kba7lDrZxkkSYtGWMNfC44Jc=
 		</data>
-		<key>Kexts\AppleALCU.kext\Contents\Info.plist</key>
-		<data>
-		pY3Y/7iFNP7DGulYTmuheNfp5KP6WvOi9eDRfBwCy3M=
-		</data>
-		<key>Kexts\AppleALCU.kext\Contents\MacOS\AppleALCU</key>
-		<data>
-		XdhCCRfXWTYZNk3rXIqx3HHRLhJanQIveHnssJUp3KA=
-		</data>
-		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\Info.plist</key>
-		<data>
-		V7lgi0I1eH+YxioUUkNEkjL6hbPxNmTRTkqZIndx0ys=
-		</data>
-		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\MacOS\AppleIntelI210Ethernet</key>
-		<data>
-		oxcjAmrGQV9i2oHDfV4oHqm+cjOEY2sRjUvN2fdjB7k=
-		</data>
-		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		MtNMrGzbWE0OqmiwaisaAXnbFohS2JFtZygNdpVHsTQ=
-		</data>
-		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\version.plist</key>
-		<data>
-		DPTnO1ULHrpOTxQU/e9L9KeCgfYjruoh51GdKPOQX7s=
-		</data>
 		<key>Kexts\BlueToolFixup.kext\Contents\Info.plist</key>
 		<data>
 		BYTSSM58XEplTsWdfiugwQqmIMD/cMGca0obUXlm9co=
@@ -91,22 +71,6 @@
 		<key>Kexts\BlueToolFixup.kext\Contents\MacOS\BlueToolFixup</key>
 		<data>
 		3jlmkb5WuAwhM/mCDU4Wgpkvku+aoaCF1meSA5KCMR4=
-		</data>
-		<key>Kexts\CpuTopologyRebuild.kext\Contents\Info.plist</key>
-		<data>
-		0Qv87+IxNtKROTyr4ZUHUupGecwl+tdfpyC7xkPy4Y0=
-		</data>
-		<key>Kexts\CpuTopologyRebuild.kext\Contents\MacOS\CpuTopologyRebuild</key>
-		<data>
-		xWTs4gGTVl97YbblUhKxgytmJqAAdq1Ba/zaNGoms7w=
-		</data>
-		<key>Kexts\CpuTscSync.kext\Contents\Info.plist</key>
-		<data>
-		ImQQLvWOJSaFQZk9AWXNGLsRNU8I+xP+YQ0Y3mHgxtY=
-		</data>
-		<key>Kexts\CpuTscSync.kext\Contents\MacOS\CpuTscSync</key>
-		<data>
-		sN/zYIkt4v+ZrTLonK9JXNkvfhZdnLQjfI79Dk7FyNw=
 		</data>
 		<key>Kexts\IntelBTPatcher.kext\Contents\Info.plist</key>
 		<data>
@@ -132,6 +96,18 @@
 		<data>
 		Jdv7pVcD3Jjg+WIMqBJmERHLEaGl1R/KKewtPZ8tzbU=
 		</data>
+		<key>Kexts\RadeonSensor.kext\Contents\Info.plist</key>
+		<data>
+		UsWlhaCvG/zuvsStY0zMWwAnQK2gK9PvgX6QvS27zYs=
+		</data>
+		<key>Kexts\RadeonSensor.kext\Contents\MacOS\RadeonSensor</key>
+		<data>
+		XX2WTmNZcVh27OAyWTzinm6sj4J++KWDScNdP7FmTSw=
+		</data>
+		<key>Kexts\RadeonSensor.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
+		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
 		YwOEcA5VUUgXbIcRWVbteY5fheRDUQ14J2mytBYFimo=
@@ -139,6 +115,18 @@
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
 		rNZF43qISCtV3kHb2wcoax/h0k3l05Kow+K85LecsHQ=
+		</data>
+		<key>Kexts\SMCRadeonGPU.kext\Contents\Info.plist</key>
+		<data>
+		hkzIFnNACh1pdMpKJ1YBDCWVgAy4188qA5yIggLC14w=
+		</data>
+		<key>Kexts\SMCRadeonGPU.kext\Contents\MacOS\SMCRadeonGPU</key>
+		<data>
+		g1asM+T+uZZBJJDbYDYaj5FTyHe5HSb71VEiyc7uzfQ=
+		</data>
+		<key>Kexts\SMCRadeonGPU.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
@@ -148,17 +136,9 @@
 		<data>
 		fYYCcb6ismS83L7PqV8bewElNrOAmWILSAwRXc/7jB8=
 		</data>
-		<key>Kexts\USBInjectAll.kext\Contents\Info.plist</key>
+		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
 		<data>
-		79DKIbo9K6ttwHJInuCsgA9ygOl8RF/jAKoTb9+JYA4=
-		</data>
-		<key>Kexts\USBInjectAll.kext\Contents\MacOS\USBInjectAll</key>
-		<data>
-		aIH/G7xZXBMt3nvxD5l5G/qcN5vAN6j8sug3pUz+2cY=
-		</data>
-		<key>Kexts\USBInjectAll.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
+		WMgfpqpCuDfgYSeIFeP7Q4PdkSHMTZrhPLNqXImausQ=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
@@ -194,7 +174,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		EzCQviYOWO8p1JS49YGM1qzNHjE7KzB2hPmRCSwUvbQ=
+		nkHvJskQCEORqzzuFQAHIe/azL3IIfOISs6Z+kUx+LM=
 		</data>
 	</dict>
 	<key>Version</key>
