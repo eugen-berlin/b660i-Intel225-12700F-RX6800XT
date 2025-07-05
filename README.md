@@ -13,3 +13,7 @@
 - Sequoia
   - AirportItlwm.kext doesn't work anymore - no WiFi & no Bluetooth
   - AppleALC doesn't work anymore - no audio
+
+# Trivia
+
+When I started with Ruby on Rails in 2013, a colleague planted in me the idea of making a Hakintosh, and so I've made one based on i5-4570K. The one above is the 3rd one I've built. Old habits die hard.
