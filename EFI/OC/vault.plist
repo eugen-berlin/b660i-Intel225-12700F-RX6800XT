@@ -4,25 +4,49 @@
 <dict>
 	<key>Files</key>
 	<dict>
-		<key>ACPI\FixShutdown-USB-SSDT.aml</key>
-		<data>
-		XDHPE/CmMELBk25YpnzaxYo85WGWCAVdo7j020UzxRY=
-		</data>
 		<key>ACPI\SSDT-AWAC-DISABLE.aml</key>
 		<data>
 		duj57umbgcA4TpCPhH+DlAh/Gy+lh222owVo/RzOsk8=
 		</data>
-		<key>ACPI\SSDT-DESIGNARE-Z390-NO-CNVW.aml</key>
+		<key>ACPI\SSDT-AWAC.aml</key>
 		<data>
-		ShE88lTXaU3Cz7byUtsg/i3rcwoPh2bKWD5lGZdsvAw=
+		Vgak10a80l0LdRX38zDN83se6a0N4kegci5pmImOPoA=
+		</data>
+		<key>ACPI\SSDT-DMAC.aml</key>
+		<data>
+		eyglEizDLiMdkI4ZN1v3NvjL0XGIQVSXw1tlbJowQnU=
+		</data>
+		<key>ACPI\SSDT-DMAR.aml</key>
+		<data>
+		OQth4QLyCUEKb761xchq1Z1K7WrLaDIhdrBjZpPiFAI=
+		</data>
+		<key>ACPI\SSDT-DTPG.aml</key>
+		<data>
+		2Y4oj+1EhnJJ9wT59C/sXPCQUxFIG2EllMiBYCrUM4g=
 		</data>
 		<key>ACPI\SSDT-EC-USBX-DESKTOP.aml</key>
 		<data>
 		HPlBpnZ/yV0qpcJl6C/AyU8FiFpnum+aNP5kOy8S3S4=
 		</data>
+		<key>ACPI\SSDT-EC-USBX.aml</key>
+		<data>
+		eAJu0lNhWm9bSQlxC6zmsFFX/zaEEmtSRuj6T00/kx8=
+		</data>
+		<key>ACPI\SSDT-GPRW.aml</key>
+		<data>
+		S9mnoDalsQYoFckmixVIWmvmO2tdl/OxYmwzIf7a7WQ=
+		</data>
 		<key>ACPI\SSDT-PLUG-ALT.aml</key>
 		<data>
 		jTf3gzuuUPl/NbLHEY0lSwisQ03EOgGwXgjG5PwbFpA=
+		</data>
+		<key>ACPI\SSDT-UIAC.aml</key>
+		<data>
+		/bLXG7mw6Z3duB1UzPlTtiS1bGtxgxqtemVpmZW2LBg=
+		</data>
+		<key>ACPI\SSDT-USBW.aml</key>
+		<data>
+		qBeruYp9R7oT+uUwx17P5+Pdh4m9W/+fkzIOKU1+dEo=
 		</data>
 		<key>ACPI\SSDT-USBX.aml</key>
 		<data>
@@ -58,11 +82,27 @@
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		0u5kVFwDIqjl4pUpSQvqmDTIPBb0Qmi/5Zmw4/hHOk4=
+		Eezwqm7x79+NLmP5TpvKJHBj/S/WrRmlT77fyXQf7CI=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		kp6WSuRrE+fyB9b8sg8Kba7lDrZxkkSYtGWMNfC44Jc=
+		2X9UNh27CEBQPfC0aSs+ukBgzIZwQ30eYyqFtMYEnlw=
+		</data>
+		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\Info.plist</key>
+		<data>
+		V7lgi0I1eH+YxioUUkNEkjL6hbPxNmTRTkqZIndx0ys=
+		</data>
+		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\MacOS\AppleIntelI210Ethernet</key>
+		<data>
+		oxcjAmrGQV9i2oHDfV4oHqm+cjOEY2sRjUvN2fdjB7k=
+		</data>
+		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		MtNMrGzbWE0OqmiwaisaAXnbFohS2JFtZygNdpVHsTQ=
+		</data>
+		<key>Kexts\AppleIntelI210Ethernet.kext\Contents\version.plist</key>
+		<data>
+		DPTnO1ULHrpOTxQU/e9L9KeCgfYjruoh51GdKPOQX7s=
 		</data>
 		<key>Kexts\BlueToolFixup.kext\Contents\Info.plist</key>
 		<data>
@@ -72,13 +112,13 @@
 		<data>
 		3jlmkb5WuAwhM/mCDU4Wgpkvku+aoaCF1meSA5KCMR4=
 		</data>
-		<key>Kexts\IntelBTPatcher.kext\Contents\Info.plist</key>
+		<key>Kexts\CpuTopologyRebuild.kext\Contents\Info.plist</key>
 		<data>
-		IbU5a7XzkfNJvx9U3unIKDij7Vyl5U1K2G1ll91A/mw=
+		0Qv87+IxNtKROTyr4ZUHUupGecwl+tdfpyC7xkPy4Y0=
 		</data>
-		<key>Kexts\IntelBTPatcher.kext\Contents\MacOS\IntelBTPatcher</key>
+		<key>Kexts\CpuTopologyRebuild.kext\Contents\MacOS\CpuTopologyRebuild</key>
 		<data>
-		7bxhDuYgNoBsTkRI2Nbe4YLVzDXTMoMSaqGacK+7CvU=
+		xWTs4gGTVl97YbblUhKxgytmJqAAdq1Ba/zaNGoms7w=
 		</data>
 		<key>Kexts\IntelBluetoothFirmware.kext\Contents\Info.plist</key>
 		<data>
@@ -140,6 +180,14 @@
 		<data>
 		WMgfpqpCuDfgYSeIFeP7Q4PdkSHMTZrhPLNqXImausQ=
 		</data>
+		<key>Kexts\USBWakeFixup.kext\Contents\Info.plist</key>
+		<data>
+		A6GQog5ZOeFsZ6j7FKydNjOW4WTXOg699jArJIEXm1Y=
+		</data>
+		<key>Kexts\USBWakeFixup.kext\Contents\MacOS\USBWakeFixup</key>
+		<data>
+		qzk76dypTUyWDG8NP7EBHF7uqOM5wFnKHhwmjW1+epY=
+		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
 		4qpZi2joKTKS8buBwIW9M0Jwev1uNIjaGprVLJ2eFq4=
@@ -174,7 +222,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		nkHvJskQCEORqzzuFQAHIe/azL3IIfOISs6Z+kUx+LM=
+		T7E8n+zgb8XkrvFw18hnXkXckbRLLMW/FVfQNIXezz8=
 		</data>
 	</dict>
 	<key>Version</key>
